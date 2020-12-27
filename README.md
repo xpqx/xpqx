@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-:smile: Update coming soon. Perhaps some interview and job searching updates given the current climate? 
-
 :sunglasses: Hobbies: biking, running, hiking, walking, reading, writing, others
 
 :point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
