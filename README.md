@@ -9,6 +9,8 @@
 
 :camera::nerd_face: My Instagram: https://www.instagram.com/mister.o.2you/
 
+:video_camera::sunglasses: My Youtube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
+
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
