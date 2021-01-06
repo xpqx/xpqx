@@ -7,9 +7,9 @@
 
 :point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
 
-:camera::nerd_face: My Instagram: https://www.instagram.com/mister.o.2you/
+:camera: My Instagram: https://www.instagram.com/mister.o.2you/
 
-:video_camera::sunglasses: My Youtube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
+:video_camera: My Youtube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
 
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
