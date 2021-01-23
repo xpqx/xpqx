@@ -7,7 +7,7 @@
 
 :camera: My Instagram: https://www.instagram.com/mister.o.2you/
 
-:video_camera: My Software Youtube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
+:video_camera: My Software Demos: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
 
 :sunglasses: Hobbies: biking, running, hiking, walking, reading, writing, others
 
