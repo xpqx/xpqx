@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
- 💬 Ask me about anything.
-
-:point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
+ :point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
 
 :camera: My Instagram: https://www.instagram.com/mister.o.2you/
 
