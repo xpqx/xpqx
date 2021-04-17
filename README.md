@@ -7,6 +7,8 @@
 
 :video_camera: My Software Demos & Tutorials: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
 
+:speech_balloon: My LinkedIn: https://www.linkedin.com/in/ed-orejel/
+
 :sunglasses: Hobbies: biking, running, photography, hiking, yoga, creative arts, others
 
 <!--
