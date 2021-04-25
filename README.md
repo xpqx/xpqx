@@ -2,7 +2,7 @@
 
 :speech_balloon: My LinkedIn: https://www.linkedin.com/in/ed-orejel/
 
-:camera: My Instagram: https://www.instagram.com/mister.o.2you/
+
 
 :point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
 
