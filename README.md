@@ -8,7 +8,7 @@
 
 :video_camera: My Software Demos & Tutorials: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
 
-:sunglasses: Hobbies: biking, running, photography, hiking, yoga, creative arts, others
+
 
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
