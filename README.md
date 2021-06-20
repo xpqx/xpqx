@@ -3,9 +3,6 @@
 :speech_balloon: My LinkedIn: https://www.linkedin.com/in/ed-orejel/
 
 
-
-:point_right: My StackOverflow Profile: https://stackoverflow.com/users/14862938/xpqx
-
 :video_camera: My Software Demos & Tutorials: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
 
 
