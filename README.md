@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 - LinkedIn: https://www.linkedin.com/in/ed-orejel/
 - YouTube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
