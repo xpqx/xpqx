@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-:speech_balloon: My LinkedIn: https://www.linkedin.com/in/ed-orejel/
-
-
-:video_camera: My Software Demos & Tutorials: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
-
-
+- LinkedIn: https://www.linkedin.com/in/ed-orejel/
+- YouTube: https://www.youtube.com/channel/UCZCzGd3XpkiKd9q565FQ4jA/about
+- Blog: https://edorejel.blogspot.com/
 
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
