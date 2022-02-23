@@ -3,7 +3,7 @@
 - LinkedIn: https://www.linkedin.com/in/ed-orejel/
 - Blog: https://edorejel.blogspot.com/
 - Read this: https://edorejel.blogspot.com/p/quick-note-ii-on-github.html
-- Listening to this: https://www.youtube.com/watch?v=haxf__6yx6Y
+- Always listening to this: https://www.youtube.com/watch?v=yPNFVj-pISU
 
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
