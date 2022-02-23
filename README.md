@@ -1,5 +1,6 @@
 
---> Account restored. Update in progress.
+--> *Account restored. Update in progress. Some data on the account is damaged or lost. Currently trying to restore as much as possible.*
+
 - LinkedIn: https://www.linkedin.com/in/ed-orejel/
 - Blog: https://edorejel.blogspot.com/
 - Read this: https://edorejel.blogspot.com/p/quick-note-ii-on-github.html
