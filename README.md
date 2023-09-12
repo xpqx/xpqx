@@ -4,7 +4,7 @@
 - LinkedIn: https://www.linkedin.com/in/ed-orejel/
 - Blog: https://edorejel.blogspot.com/
 - Read this: https://edorejel.blogspot.com/p/quick-note-ii-on-github.html
-- Always listening to this: https://www.youtube.com/watch?v=yPNFVj-pISU
+- Always listening to this: [Legend by Otyken - Siberian Indigenous Music Group ](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 
 <!--
 **xpqx/xpqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
